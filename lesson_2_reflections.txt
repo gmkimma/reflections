@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	When a repository is initialized, a git file is added to the directory. This needs to be done so that git can recognize it.
