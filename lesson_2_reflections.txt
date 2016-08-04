@@ -13,3 +13,15 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 	Branches help keep history organized because different versions are saved in different areas.
+
+How do the diagrams help you visualize the branch structure?
+
+	Diagrams help me visualize the branch structure because it begins to look like a road map, which to easy to follow.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	The result is a final product of both branches combined. It is represneted that way because it shows 2 branches becoming 1.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Pros of Git's automatic merging is that it saves lots of time for manually merging files. Cons are that sometimes code may get merged that you don't want.
